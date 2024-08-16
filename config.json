@@ -1,0 +1,8 @@
+{
+    "model_path": "./results/final_model",
+    "batch_size": 8,
+    "test_file": "test.csv",
+    "submission_file": "sample_submission.csv",
+    "output_file": "submission_results.csv",
+    "max_answer_length": 150
+}
